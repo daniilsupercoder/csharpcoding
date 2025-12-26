@@ -1,0 +1,7 @@
+C:\projects\DaniilProjects\Laba_23_2\Laba_23_2_Fibonachi\bin\Debug\Laba_23_2_Fibonachi.exe.config
+C:\projects\DaniilProjects\Laba_23_2\Laba_23_2_Fibonachi\bin\Debug\Laba_23_2_Fibonachi.exe
+C:\projects\DaniilProjects\Laba_23_2\Laba_23_2_Fibonachi\bin\Debug\Laba_23_2_Fibonachi.pdb
+C:\projects\DaniilProjects\Laba_23_2\Laba_23_2_Fibonachi\obj\Debug\Laba_23_2_Fibonachi.csproj.AssemblyReference.cache
+C:\projects\DaniilProjects\Laba_23_2\Laba_23_2_Fibonachi\obj\Debug\Laba_23_2_Fibonachi.csproj.CoreCompileInputs.cache
+C:\projects\DaniilProjects\Laba_23_2\Laba_23_2_Fibonachi\obj\Debug\Laba_23_2_Fibonachi.exe
+C:\projects\DaniilProjects\Laba_23_2\Laba_23_2_Fibonachi\obj\Debug\Laba_23_2_Fibonachi.pdb

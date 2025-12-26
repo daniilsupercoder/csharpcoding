@@ -1,0 +1,7 @@
+C:\projects\DaniilProjects\DaniilProjects\Laba1_23_1\Laba1_23_1\bin\Debug\Laba1_23_1.exe.config
+C:\projects\DaniilProjects\DaniilProjects\Laba1_23_1\Laba1_23_1\bin\Debug\Laba1_23_1.exe
+C:\projects\DaniilProjects\DaniilProjects\Laba1_23_1\Laba1_23_1\bin\Debug\Laba1_23_1.pdb
+C:\projects\DaniilProjects\DaniilProjects\Laba1_23_1\Laba1_23_1\obj\Debug\Laba1_23_1.csproj.AssemblyReference.cache
+C:\projects\DaniilProjects\DaniilProjects\Laba1_23_1\Laba1_23_1\obj\Debug\Laba1_23_1.csproj.CoreCompileInputs.cache
+C:\projects\DaniilProjects\DaniilProjects\Laba1_23_1\Laba1_23_1\obj\Debug\Laba1_23_1.exe
+C:\projects\DaniilProjects\DaniilProjects\Laba1_23_1\Laba1_23_1\obj\Debug\Laba1_23_1.pdb

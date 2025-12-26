@@ -1,0 +1,14 @@
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Maximum\bin\Debug\net10.0\Maximum.exe
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Maximum\bin\Debug\net10.0\Maximum.deps.json
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Maximum\bin\Debug\net10.0\Maximum.runtimeconfig.json
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Maximum\bin\Debug\net10.0\Maximum.dll
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Maximum\bin\Debug\net10.0\Maximum.pdb
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Maximum\obj\Debug\net10.0\Maximum.GeneratedMSBuildEditorConfig.editorconfig
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Maximum\obj\Debug\net10.0\Maximum.AssemblyInfoInputs.cache
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Maximum\obj\Debug\net10.0\Maximum.AssemblyInfo.cs
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Maximum\obj\Debug\net10.0\Maximum.csproj.CoreCompileInputs.cache
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Maximum\obj\Debug\net10.0\Maximum.dll
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Maximum\obj\Debug\net10.0\refint\Maximum.dll
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Maximum\obj\Debug\net10.0\Maximum.pdb
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Maximum\obj\Debug\net10.0\Maximum.genruntimeconfig.cache
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Maximum\obj\Debug\net10.0\ref\Maximum.dll

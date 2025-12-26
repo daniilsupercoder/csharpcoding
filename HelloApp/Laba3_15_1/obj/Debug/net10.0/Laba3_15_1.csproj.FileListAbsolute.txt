@@ -1,0 +1,4 @@
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Laba3_15_1\obj\Debug\net10.0\Laba3_15_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Laba3_15_1\obj\Debug\net10.0\Laba3_15_1.AssemblyInfoInputs.cache
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Laba3_15_1\obj\Debug\net10.0\Laba3_15_1.AssemblyInfo.cs
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Laba3_15_1\obj\Debug\net10.0\Laba3_15_1.csproj.CoreCompileInputs.cache

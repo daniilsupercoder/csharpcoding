@@ -1,0 +1,14 @@
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Minimum\obj\Debug\net10.0\Minimum.GeneratedMSBuildEditorConfig.editorconfig
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Minimum\obj\Debug\net10.0\Minimum.AssemblyInfoInputs.cache
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Minimum\obj\Debug\net10.0\Minimum.AssemblyInfo.cs
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Minimum\obj\Debug\net10.0\Minimum.csproj.CoreCompileInputs.cache
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Minimum\bin\Debug\net10.0\Minimum.exe
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Minimum\bin\Debug\net10.0\Minimum.deps.json
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Minimum\bin\Debug\net10.0\Minimum.runtimeconfig.json
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Minimum\bin\Debug\net10.0\Minimum.dll
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Minimum\bin\Debug\net10.0\Minimum.pdb
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Minimum\obj\Debug\net10.0\Minimum.dll
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Minimum\obj\Debug\net10.0\refint\Minimum.dll
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Minimum\obj\Debug\net10.0\Minimum.pdb
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Minimum\obj\Debug\net10.0\Minimum.genruntimeconfig.cache
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Minimum\obj\Debug\net10.0\ref\Minimum.dll

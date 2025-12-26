@@ -1,0 +1,7 @@
+C:\project's\DaniilProjects\DaniilProjects\Laba5_8_3\Laba5_8_3\bin\Debug\Laba5_8_3.exe.config
+C:\project's\DaniilProjects\DaniilProjects\Laba5_8_3\Laba5_8_3\bin\Debug\Laba5_8_3.exe
+C:\project's\DaniilProjects\DaniilProjects\Laba5_8_3\Laba5_8_3\bin\Debug\Laba5_8_3.pdb
+C:\project's\DaniilProjects\DaniilProjects\Laba5_8_3\Laba5_8_3\obj\Debug\Laba5_8_3.csproj.AssemblyReference.cache
+C:\project's\DaniilProjects\DaniilProjects\Laba5_8_3\Laba5_8_3\obj\Debug\Laba5_8_3.csproj.CoreCompileInputs.cache
+C:\project's\DaniilProjects\DaniilProjects\Laba5_8_3\Laba5_8_3\obj\Debug\Laba5_8_3.exe
+C:\project's\DaniilProjects\DaniilProjects\Laba5_8_3\Laba5_8_3\obj\Debug\Laba5_8_3.pdb

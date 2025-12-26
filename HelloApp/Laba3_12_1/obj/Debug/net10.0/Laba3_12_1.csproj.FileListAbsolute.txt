@@ -1,0 +1,14 @@
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Laba3_12_1\bin\Debug\net10.0\Laba3_12_1.exe
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Laba3_12_1\bin\Debug\net10.0\Laba3_12_1.deps.json
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Laba3_12_1\bin\Debug\net10.0\Laba3_12_1.runtimeconfig.json
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Laba3_12_1\bin\Debug\net10.0\Laba3_12_1.dll
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Laba3_12_1\bin\Debug\net10.0\Laba3_12_1.pdb
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Laba3_12_1\obj\Debug\net10.0\Laba3_12_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Laba3_12_1\obj\Debug\net10.0\Laba3_12_1.AssemblyInfoInputs.cache
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Laba3_12_1\obj\Debug\net10.0\Laba3_12_1.AssemblyInfo.cs
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Laba3_12_1\obj\Debug\net10.0\Laba3_12_1.csproj.CoreCompileInputs.cache
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Laba3_12_1\obj\Debug\net10.0\Laba3_12_1.dll
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Laba3_12_1\obj\Debug\net10.0\refint\Laba3_12_1.dll
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Laba3_12_1\obj\Debug\net10.0\Laba3_12_1.pdb
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Laba3_12_1\obj\Debug\net10.0\Laba3_12_1.genruntimeconfig.cache
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Laba3_12_1\obj\Debug\net10.0\ref\Laba3_12_1.dll

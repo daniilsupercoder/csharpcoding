@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\DaniilProjects\\DaniilProjects\\HelloApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A80B4B1-1437-4C23-B397-E382C8BF4E7E}|..\\Laba5_8_3\\Laba5_8_3\\Laba5_8_3.csproj|c:\\projects\\daniilprojects\\daniilprojects\\laba5_8_3\\laba5_8_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C6B66F-5410-4AC0-9A67-A081FEC94D34}|..\\Laba5_8_2\\Laba5_8_2\\Laba5_8_2.csproj|c:\\projects\\daniilprojects\\daniilprojects\\laba5_8_2\\laba5_8_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC81D8E5-DC9E-4556-A7C8-B398123856D5}|..\\Laba5_8_1\\Laba5_8_1\\Laba5_8_1.csproj|c:\\projects\\daniilprojects\\daniilprojects\\laba5_8_1\\laba5_8_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B6106F-3931-406E-A7CD-6B82A87554D2}|..\\Laba7_8\\Laba7_8\\Laba7_8.csproj|c:\\projects\\daniilprojects\\daniilprojects\\laba7_8\\laba7_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31D42DE-7D0C-4AF4-AFC1-2AAF0D990593}|..\\Laba6_23_2\\Laba6_23_2\\Laba6_23_2.csproj|c:\\projects\\daniilprojects\\daniilprojects\\laba6_23_2\\laba6_23_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68571E4-9C4E-45CA-BB0D-C486A8013761}|..\\Laba1_23_1\\Laba1_23_1\\Laba1_16_1.csproj|c:\\projects\\daniilprojects\\daniilprojects\\laba1_23_1\\laba1_23_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{858BA230-8374-481D-810C-AD5B4709CF35}|..\\Laba4_23_2\\Laba4_23_2\\Laba4_23_2.csproj|c:\\projects\\daniilprojects\\daniilprojects\\laba4_23_2\\laba4_23_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFBB289-6E39-4B71-AC21-197DE8497494}|..\\Methods\\Methods\\Methods.csproj|c:\\projects\\daniilprojects\\daniilprojects\\methods\\methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEC21C8-9382-445A-B84A-82FACEA152DD}|..\\Laba4_23_1\\Laba4_23_1\\Laba4_23_1.csproj|c:\\projects\\daniilprojects\\daniilprojects\\laba4_23_1\\laba4_23_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203DA6EC-3A49-4FD5-A6AD-DADF4703188E}|..\\Laba3_1_1\\Laba3_1_1\\Laba3_1_1.csproj|c:\\projects\\daniilprojects\\daniilprojects\\laba3_1_1\\laba3_1_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDE95AE-9FD0-4278-9B21-A7849D9C451F}|..\\Laba4_1_2\\Laba4_1_2\\Laba4_1_2.csproj|c:\\projects\\daniilprojects\\daniilprojects\\laba4_1_2\\laba4_1_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0587AFA5-1818-4187-A05F-77AA9F594A53}|..\\Laba1_23_2\\Laba1_23_2\\Laba1_23_2.csproj|c:\\projects\\daniilprojects\\daniilprojects\\laba1_23_2\\laba1_23_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68571E4-9C4E-45CA-BB0D-C486A8013761}|..\\Laba1_23_1\\Laba1_23_1\\Laba1_23_1.csproj|c:\\projects\\daniilprojects\\daniilprojects\\laba1_23_1\\laba1_23_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADDCEAD-6B37-4587-A445-7ABA493609D5}|..\\Laba_23_2\\Laba_23_2_Fibonachi\\Laba3_23_2_Fibonachi.csproj|c:\\projects\\daniilprojects\\daniilprojects\\laba_23_2\\laba_23_2_fibonachi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 217,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\DaniilProjects\\DaniilProjects\\Laba5_8_3\\Laba5_8_3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Laba5_8_3\\Laba5_8_3\\Program.cs",
+              "ToolTip": "C:\\projects\\DaniilProjects\\DaniilProjects\\Laba5_8_3\\Laba5_8_3\\Program.cs",
+              "RelativeToolTip": "..\\Laba5_8_3\\Laba5_8_3\\Program.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAAAMAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T21:00:47.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\DaniilProjects\\DaniilProjects\\Laba5_8_2\\Laba5_8_2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Laba5_8_2\\Laba5_8_2\\Program.cs",
+              "ToolTip": "C:\\projects\\DaniilProjects\\DaniilProjects\\Laba5_8_2\\Laba5_8_2\\Program.cs",
+              "RelativeToolTip": "..\\Laba5_8_2\\Laba5_8_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:56:50.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\DaniilProjects\\DaniilProjects\\Laba5_8_1\\Laba5_8_1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Laba5_8_1\\Laba5_8_1\\Program.cs",
+              "ToolTip": "C:\\projects\\DaniilProjects\\DaniilProjects\\Laba5_8_1\\Laba5_8_1\\Program.cs",
+              "RelativeToolTip": "..\\Laba5_8_1\\Laba5_8_1\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:43:00.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\DaniilProjects\\DaniilProjects\\Laba7_8\\Laba7_8\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Laba7_8\\Laba7_8\\Program.cs",
+              "ToolTip": "C:\\projects\\DaniilProjects\\DaniilProjects\\Laba7_8\\Laba7_8\\Program.cs",
+              "RelativeToolTip": "..\\Laba7_8\\Laba7_8\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:33:38.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\DaniilProjects\\DaniilProjects\\Laba6_23_2\\Laba6_23_2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Laba6_23_2\\Laba6_23_2\\Program.cs",
+              "ToolTip": "C:\\projects\\DaniilProjects\\DaniilProjects\\Laba6_23_2\\Laba6_23_2\\Program.cs",
+              "RelativeToolTip": "..\\Laba6_23_2\\Laba6_23_2\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:05:33.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\DaniilProjects\\DaniilProjects\\Laba4_23_1\\Laba4_23_1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Laba4_23_1\\Laba4_23_1\\Program.cs",
+              "ToolTip": "C:\\projects\\DaniilProjects\\DaniilProjects\\Laba4_23_1\\Laba4_23_1\\Program.cs",
+              "RelativeToolTip": "..\\Laba4_23_1\\Laba4_23_1\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAuwFQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T19:45:27.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\DaniilProjects\\DaniilProjects\\Methods\\Methods\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Methods\\Methods\\Program.cs",
+              "ToolTip": "C:\\projects\\DaniilProjects\\DaniilProjects\\Methods\\Methods\\Program.cs",
+              "RelativeToolTip": "..\\Methods\\Methods\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T19:40:26.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\DaniilProjects\\DaniilProjects\\Laba3_1_1\\Laba3_1_1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Laba3_1_1\\Laba3_1_1\\Program.cs",
+              "ToolTip": "C:\\projects\\DaniilProjects\\DaniilProjects\\Laba3_1_1\\Laba3_1_1\\Program.cs",
+              "RelativeToolTip": "..\\Laba3_1_1\\Laba3_1_1\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwBYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T19:33:20.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\DaniilProjects\\DaniilProjects\\Laba4_1_2\\Laba4_1_2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Laba4_1_2\\Laba4_1_2\\Program.cs",
+              "ToolTip": "C:\\projects\\DaniilProjects\\DaniilProjects\\Laba4_1_2\\Laba4_1_2\\Program.cs",
+              "RelativeToolTip": "..\\Laba4_1_2\\Laba4_1_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T19:32:15.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\DaniilProjects\\DaniilProjects\\Laba4_23_2\\Laba4_23_2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Laba4_23_2\\Laba4_23_2\\Program.cs",
+              "ToolTip": "C:\\projects\\DaniilProjects\\DaniilProjects\\Laba4_23_2\\Laba4_23_2\\Program.cs",
+              "RelativeToolTip": "..\\Laba4_23_2\\Laba4_23_2\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwBYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T19:22:08.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\DaniilProjects\\DaniilProjects\\Laba1_23_1\\Laba1_23_1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Laba1_23_1\\Laba1_23_1\\Program.cs",
+              "ToolTip": "C:\\projects\\DaniilProjects\\DaniilProjects\\Laba1_23_1\\Laba1_23_1\\Program.cs",
+              "RelativeToolTip": "..\\Laba1_23_1\\Laba1_23_1\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T19:17:21.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\DaniilProjects\\DaniilProjects\\Laba1_23_2\\Laba1_23_2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Laba1_23_2\\Laba1_23_2\\Program.cs",
+              "ToolTip": "C:\\projects\\DaniilProjects\\DaniilProjects\\Laba1_23_2\\Laba1_23_2\\Program.cs",
+              "RelativeToolTip": "..\\Laba1_23_2\\Laba1_23_2\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T17:54:51.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\DaniilProjects\\DaniilProjects\\Laba1_23_1\\Laba1_23_1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Laba1_23_1\\Laba1_23_1\\Program.cs",
+              "ToolTip": "C:\\projects\\DaniilProjects\\DaniilProjects\\Laba1_23_1\\Laba1_23_1\\Program.cs",
+              "RelativeToolTip": "..\\Laba1_23_1\\Laba1_23_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T17:42:43.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\DaniilProjects\\DaniilProjects\\Laba_23_2\\Laba_23_2_Fibonachi\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Laba_23_2\\Laba_23_2_Fibonachi\\Program.cs",
+              "ToolTip": "C:\\projects\\DaniilProjects\\DaniilProjects\\Laba_23_2\\Laba_23_2_Fibonachi\\Program.cs",
+              "RelativeToolTip": "..\\Laba_23_2\\Laba_23_2_Fibonachi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T17:19:34.44Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 246,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2ffc3976-88be-4e8a-8913-68245bb123f9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a0c5197d-0ac7-4b63-97cd-8872a789d233}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 246,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
