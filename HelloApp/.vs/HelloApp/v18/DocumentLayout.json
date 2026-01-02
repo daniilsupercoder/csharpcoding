@@ -1,141 +1,130 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\",
+  "WorkspaceRootPath": "C:\\git\\csharpcoding\\HelloApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3B6106F-3931-406E-A7CD-6B82A87554D2}|..\\Laba7_8\\Laba7_8\\Laba7_8.csproj|C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\laba7_8\\laba7_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBDC1239-4687-4645-83FD-9A5DB7C0FC39}|SredneeArifmeticheskoe\\SredneeArifmeticheskoe.csproj|c:\\git\\csharpcoding\\helloapp\\sredneearifmeticheskoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBDC1239-4687-4645-83FD-9A5DB7C0FC39}|SredneeArifmeticheskoe\\SredneeArifmeticheskoe.csproj|solutionrelative:sredneearifmeticheskoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30BDF22A-66E1-4204-9CBB-153B5466F1D4}|minimum2\\minimum2.csproj|c:\\project\u0027s\\daniilprojects\\daniilprojects\\helloapp\\minimum2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30BDF22A-66E1-4204-9CBB-153B5466F1D4}|minimum2\\minimum2.csproj|solutionrelative:minimum2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E340D961-6894-4CAE-BDDD-B05362F73BFF}|sum2\\sum2.csproj|c:\\project\u0027s\\daniilprojects\\daniilprojects\\helloapp\\sum2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E340D961-6894-4CAE-BDDD-B05362F73BFF}|sum2\\sum2.csproj|solutionrelative:sum2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9271E93C-9DA5-4339-996C-7EED0755365C}|..\\Sum\\Sum\\Sum.csproj|c:\\project\u0027s\\daniilprojects\\daniilprojects\\sum\\sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB8EDFF0-4AF6-4CC6-A511-3C73EA31BFAE}|Minimum\\Minimum.csproj|c:\\project\u0027s\\daniilprojects\\daniilprojects\\helloapp\\minimum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB8EDFF0-4AF6-4CC6-A511-3C73EA31BFAE}|Minimum\\Minimum.csproj|c:\\git\\csharpcoding\\helloapp\\minimum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB8EDFF0-4AF6-4CC6-A511-3C73EA31BFAE}|Minimum\\Minimum.csproj|solutionrelative:minimum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30BDF22A-66E1-4204-9CBB-153B5466F1D4}|minimum2\\minimum2.csproj|c:\\project\u0027s\\daniilprojects\\daniilprojects\\helloapp\\minimum2\\minimum2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{30BDF22A-66E1-4204-9CBB-153B5466F1D4}|minimum2\\minimum2.csproj|solutionrelative:minimum2\\minimum2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\git\\csharpcoding\\HelloApp\\Progress.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Progress.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8850456A-AB75-456B-A77E-499E4374B056}|Maximum3\\Maximum3.csproj|c:\\project\u0027s\\daniilprojects\\daniilprojects\\helloapp\\maximum3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8850456A-AB75-456B-A77E-499E4374B056}|Maximum3\\Maximum3.csproj|solutionrelative:maximum3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FF7647B-FAAD-4FC6-9C75-26445809C851}|Maximum1\\Maximum1.csproj|c:\\project\u0027s\\daniilprojects\\daniilprojects\\helloapp\\maximum1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1FF7647B-FAAD-4FC6-9C75-26445809C851}|Maximum1\\Maximum1.csproj|c:\\git\\csharpcoding\\helloapp\\maximum1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FF7647B-FAAD-4FC6-9C75-26445809C851}|Maximum1\\Maximum1.csproj|solutionrelative:maximum1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6ADDCEAD-6B37-4587-A445-7ABA493609D5}|..\\Laba_23_2\\Laba_23_2_Fibonachi\\Laba3_23_2_Fibonachi.csproj|C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\laba_23_2\\laba_23_2_fibonachi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAEC21C8-9382-445A-B84A-82FACEA152DD}|..\\Laba4_23_1\\Laba4_23_1\\Laba4_23_1.csproj|C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\laba4_23_1\\laba4_23_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{858BA230-8374-481D-810C-AD5B4709CF35}|..\\Laba4_23_2\\Laba4_23_2\\Laba4_23_2.csproj|C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\laba4_23_2\\laba4_23_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF2F6995-348A-4D4B-A4E4-AFC4FDC74D91}|ConsoleApp1\\Laba3_14_1.csproj|c:\\project\u0027s\\daniilprojects\\daniilprojects\\helloapp\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BF2F6995-348A-4D4B-A4E4-AFC4FDC74D91}|ConsoleApp1\\Laba3_14_1.csproj|c:\\git\\csharpcoding\\helloapp\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF2F6995-348A-4D4B-A4E4-AFC4FDC74D91}|ConsoleApp1\\Laba3_14_1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE90A1DF-C90A-4E1B-9F74-1AF84196CC84}|Laba3_27_1\\Laba3_27_1.csproj|c:\\project\u0027s\\daniilprojects\\daniilprojects\\helloapp\\laba3_27_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE90A1DF-C90A-4E1B-9F74-1AF84196CC84}|Laba3_27_1\\Laba3_27_1.csproj|c:\\git\\csharpcoding\\helloapp\\laba3_27_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE90A1DF-C90A-4E1B-9F74-1AF84196CC84}|Laba3_27_1\\Laba3_27_1.csproj|solutionrelative:laba3_27_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9B6D953-ACDD-4BF4-8B94-4F0C21440E3C}|Laba3_22_1\\Laba3_22_1.csproj|c:\\project\u0027s\\daniilprojects\\daniilprojects\\helloapp\\laba3_22_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9B6D953-ACDD-4BF4-8B94-4F0C21440E3C}|Laba3_22_1\\Laba3_22_1.csproj|c:\\git\\csharpcoding\\helloapp\\laba3_22_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9B6D953-ACDD-4BF4-8B94-4F0C21440E3C}|Laba3_22_1\\Laba3_22_1.csproj|solutionrelative:laba3_22_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC6F9160-30E9-40AE-86C1-157BFCA63244}|Laba3_11_1\\Laba3_11_1.csproj|c:\\project\u0027s\\daniilprojects\\daniilprojects\\helloapp\\laba3_11_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AC6F9160-30E9-40AE-86C1-157BFCA63244}|Laba3_11_1\\Laba3_11_1.csproj|c:\\git\\csharpcoding\\helloapp\\laba3_11_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC6F9160-30E9-40AE-86C1-157BFCA63244}|Laba3_11_1\\Laba3_11_1.csproj|solutionrelative:laba3_11_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC6F9160-30E9-40AE-86C1-157BFCA63244}|Laba3_11_1\\Laba3_11_1.csproj|c:\\project\u0027s\\daniilprojects\\daniilprojects\\helloapp\\laba3_11_1\\laba3_11_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{AC6F9160-30E9-40AE-86C1-157BFCA63244}|Laba3_11_1\\Laba3_11_1.csproj|c:\\git\\csharpcoding\\helloapp\\laba3_11_1\\laba3_11_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{AC6F9160-30E9-40AE-86C1-157BFCA63244}|Laba3_11_1\\Laba3_11_1.csproj|solutionrelative:laba3_11_1\\laba3_11_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\BinarySearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\git\\csharpcoding\\HelloApp\\BinarySearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BinarySearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{499F383F-5D2A-422B-A432-8BA210BBF03E}|Laba3_2_2\\Laba3_2_2.csproj|c:\\project\u0027s\\daniilprojects\\daniilprojects\\helloapp\\laba3_2_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{499F383F-5D2A-422B-A432-8BA210BBF03E}|Laba3_2_2\\Laba3_2_2.csproj|c:\\git\\csharpcoding\\helloapp\\laba3_2_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{499F383F-5D2A-422B-A432-8BA210BBF03E}|Laba3_2_2\\Laba3_2_2.csproj|solutionrelative:laba3_2_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D2A38D3-C1C6-4361-A40E-B378D179F14F}|Laba3_1_2\\Laba3_1_2.csproj|c:\\project\u0027s\\daniilprojects\\daniilprojects\\helloapp\\laba3_1_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D2A38D3-C1C6-4361-A40E-B378D179F14F}|Laba3_1_2\\Laba3_1_2.csproj|c:\\git\\csharpcoding\\helloapp\\laba3_1_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D2A38D3-C1C6-4361-A40E-B378D179F14F}|Laba3_1_2\\Laba3_1_2.csproj|solutionrelative:laba3_1_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77A7BEB4-75A3-4E7D-B656-1F941B4A5AA8}|Laba3_26_1\\Laba3_26_1.csproj|c:\\project\u0027s\\daniilprojects\\daniilprojects\\helloapp\\laba3_26_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77A7BEB4-75A3-4E7D-B656-1F941B4A5AA8}|Laba3_26_1\\Laba3_26_1.csproj|c:\\git\\csharpcoding\\helloapp\\laba3_26_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77A7BEB4-75A3-4E7D-B656-1F941B4A5AA8}|Laba3_26_1\\Laba3_26_1.csproj|solutionrelative:laba3_26_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67C8E94D-B3DB-4EB6-B000-4D9B85D85D82}|Laba3_17_1\\Laba3_17_1.csproj|c:\\project\u0027s\\daniilprojects\\daniilprojects\\helloapp\\laba3_17_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67C8E94D-B3DB-4EB6-B000-4D9B85D85D82}|Laba3_17_1\\Laba3_17_1.csproj|c:\\git\\csharpcoding\\helloapp\\laba3_17_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67C8E94D-B3DB-4EB6-B000-4D9B85D85D82}|Laba3_17_1\\Laba3_17_1.csproj|solutionrelative:laba3_17_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F482F00-92FF-4C34-B961-61D5DE180677}|Laba3_10_1\\Laba3_10_1.csproj|c:\\project\u0027s\\daniilprojects\\daniilprojects\\helloapp\\laba3_10_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F482F00-92FF-4C34-B961-61D5DE180677}|Laba3_10_1\\Laba3_10_1.csproj|c:\\git\\csharpcoding\\helloapp\\laba3_10_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F482F00-92FF-4C34-B961-61D5DE180677}|Laba3_10_1\\Laba3_10_1.csproj|solutionrelative:laba3_10_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEB60FB7-8320-4628-ADF5-E87286171249}|Laba3_12_1\\Laba3_12_1.csproj|c:\\project\u0027s\\daniilprojects\\daniilprojects\\helloapp\\laba3_12_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DEB60FB7-8320-4628-ADF5-E87286171249}|Laba3_12_1\\Laba3_12_1.csproj|c:\\git\\csharpcoding\\helloapp\\laba3_12_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEB60FB7-8320-4628-ADF5-E87286171249}|Laba3_12_1\\Laba3_12_1.csproj|solutionrelative:laba3_12_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60D31149-AF40-4686-AFF2-59F864932D18}|Laba3_16_1\\Laba3_16_1.csproj|c:\\project\u0027s\\daniilprojects\\daniilprojects\\helloapp\\laba3_16_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60D31149-AF40-4686-AFF2-59F864932D18}|Laba3_16_1\\Laba3_16_1.csproj|c:\\git\\csharpcoding\\helloapp\\laba3_16_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60D31149-AF40-4686-AFF2-59F864932D18}|Laba3_16_1\\Laba3_16_1.csproj|solutionrelative:laba3_16_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{222D8F7B-3CCA-4388-871A-A965DB3AE2AF}|Laba3_15_1.2\\Laba3_15_1.2.csproj|c:\\project\u0027s\\daniilprojects\\daniilprojects\\helloapp\\laba3_15_1.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{222D8F7B-3CCA-4388-871A-A965DB3AE2AF}|Laba3_15_1.2\\Laba3_15_1.2.csproj|c:\\git\\csharpcoding\\helloapp\\laba3_15_1.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{222D8F7B-3CCA-4388-871A-A965DB3AE2AF}|Laba3_15_1.2\\Laba3_15_1.2.csproj|solutionrelative:laba3_15_1.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F482F00-92FF-4C34-B961-61D5DE180677}|Laba3_10_1\\Laba3_10_1.csproj|c:\\project\u0027s\\daniilprojects\\daniilprojects\\helloapp\\laba3_10_1\\laba3_10_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{1F482F00-92FF-4C34-B961-61D5DE180677}|Laba3_10_1\\Laba3_10_1.csproj|c:\\git\\csharpcoding\\helloapp\\laba3_10_1\\laba3_10_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{1F482F00-92FF-4C34-B961-61D5DE180677}|Laba3_10_1\\Laba3_10_1.csproj|solutionrelative:laba3_10_1\\laba3_10_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CF0F324-87FB-4D43-B572-DAF48AEEA689}|..\\Laba3_6_1\\Laba3_6_1\\Laba3_6_1.csproj|c:\\project\u0027s\\daniilprojects\\daniilprojects\\laba3_6_1\\laba3_6_1\\laba3_6_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba7_8\\Laba7_8\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CF0F324-87FB-4D43-B572-DAF48AEEA689}|..\\Laba3_6_1\\Laba3_6_1\\Laba3_6_1.csproj|c:\\project\u0027s\\daniilprojects\\daniilprojects\\laba3_6_1\\laba3_6_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba4_23_1\\Laba4_23_1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{203DA6EC-3A49-4FD5-A6AD-DADF4703188E}|..\\Laba3_1_1\\Laba3_1_1\\Laba3_1_1.csproj|C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\laba3_1_1\\laba3_1_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba4_23_2\\Laba4_23_2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAFBB289-6E39-4B71-AC21-197DE8497494}|..\\Methods\\Methods\\Methods.csproj|C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\methods\\methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba_23_2\\Laba_23_2_Fibonachi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D31D42DE-7D0C-4AF4-AFC1-2AAF0D990593}|..\\Laba6_23_2\\Laba6_23_2\\Laba6_23_2.csproj|C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\laba6_23_2\\laba6_23_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba3_6_1\\Laba3_6_1\\Laba3_6_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83C6B66F-5410-4AC0-9A67-A081FEC94D34}|..\\Laba5_8_2\\Laba5_8_2\\Laba5_8_2.csproj|c:\\project\u0027s\\daniilprojects\\daniilprojects\\laba5_8_2\\laba5_8_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba3_6_1\\Laba3_6_1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC81D8E5-DC9E-4556-A7C8-B398123856D5}|..\\Laba5_8_1\\Laba5_8_1\\Laba5_8_1.csproj|C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\laba5_8_1\\laba5_8_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba5_8_2\\Laba5_8_2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A80B4B1-1437-4C23-B397-E382C8BF4E7E}|..\\Laba5_8_3\\Laba5_8_3\\Laba5_8_3.csproj|c:\\project\u0027s\\daniilprojects\\daniilprojects\\laba5_8_3\\laba5_8_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba5_8_3\\Laba5_8_3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A68571E4-9C4E-45CA-BB0D-C486A8013761}|..\\Laba1_23_1\\Laba1_23_1\\Laba1_16_1.csproj|C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\laba1_23_1\\laba1_23_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba5_8_1\\Laba5_8_1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFDE95AE-9FD0-4278-9B21-A7849D9C451F}|..\\Laba4_1_2\\Laba4_1_2\\Laba4_1_2.csproj|C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\laba4_1_2\\laba4_1_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba6_23_2\\Laba6_23_2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0587AFA5-1818-4187-A05F-77AA9F594A53}|..\\Laba1_23_2\\Laba1_23_2\\Laba1_23_2.csproj|C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\laba1_23_2\\laba1_23_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Methods\\Methods\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A68571E4-9C4E-45CA-BB0D-C486A8013761}|..\\Laba1_23_1\\Laba1_23_1\\Laba1_23_1.csproj|C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\laba1_23_1\\laba1_23_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba3_1_1\\Laba3_1_1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba4_1_2\\Laba4_1_2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba1_23_1\\Laba1_23_1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba1_23_2\\Laba1_23_2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba1_23_1\\Laba1_23_1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -145,107 +134,87 @@
       "DocumentGroups": [
         {
           "DockedWidth": 217,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba7_8\\Laba7_8\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba7_8\\Laba7_8\\Program.cs",
+              "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba7_8\\Laba7_8\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba7_8\\Laba7_8\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T21:05:00.697Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba7_8\\Laba7_8\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Laba7_8\\Laba7_8\\Program.cs",
-              "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba7_8\\Laba7_8\\Program.cs",
-              "RelativeToolTip": "..\\Laba7_8\\Laba7_8\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBUAAAAPAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\SredneeArifmeticheskoe\\Program.cs",
+              "RelativeDocumentMoniker": "SredneeArifmeticheskoe\\Program.cs",
+              "ToolTip": "C:\\git\\csharpcoding\\HelloApp\\SredneeArifmeticheskoe\\Program.cs",
+              "RelativeToolTip": "SredneeArifmeticheskoe\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T21:05:00.697Z",
-              "IsPinned": true,
+              "WhenOpened": "2026-01-02T15:17:29.135Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\sum2\\Program.cs",
-              "RelativeDocumentMoniker": "sum2\\Program.cs",
-              "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\sum2\\Program.cs",
-              "RelativeToolTip": "sum2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T16:41:09.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Sum\\Sum\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Sum\\Sum\\Program.cs",
-              "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Sum\\Sum\\Program.cs",
-              "RelativeToolTip": "..\\Sum\\Sum\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwB8AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T16:39:53.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "minimum2",
-              "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\minimum2\\minimum2.csproj",
-              "RelativeDocumentMoniker": "minimum2\\minimum2.csproj",
-              "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\minimum2\\minimum2.csproj",
-              "RelativeToolTip": "minimum2\\minimum2.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-29T16:36:06.316Z",
+              "Title": "Progress.txt",
+              "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\Progress.txt",
+              "RelativeDocumentMoniker": "Progress.txt",
+              "ToolTip": "C:\\git\\csharpcoding\\HelloApp\\Progress.txt",
+              "RelativeToolTip": "Progress.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-26T15:51:06.413Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\minimum2\\Program.cs",
-              "RelativeDocumentMoniker": "minimum2\\Program.cs",
-              "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\minimum2\\Program.cs",
-              "RelativeToolTip": "minimum2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T16:32:12.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\Maximum3\\Program.cs",
-              "RelativeDocumentMoniker": "Maximum3\\Program.cs",
-              "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\Maximum3\\Program.cs",
-              "RelativeToolTip": "Maximum3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T16:28:08.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\Minimum\\Program.cs",
+              "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\Minimum\\Program.cs",
               "RelativeDocumentMoniker": "Minimum\\Program.cs",
-              "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\Minimum\\Program.cs",
+              "ToolTip": "C:\\git\\csharpcoding\\HelloApp\\Minimum\\Program.cs",
               "RelativeToolTip": "Minimum\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-12T14:43:45.097Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\Maximum1\\Program.cs",
+              "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\Maximum1\\Program.cs",
               "RelativeDocumentMoniker": "Maximum1\\Program.cs",
-              "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\Maximum1\\Program.cs",
+              "ToolTip": "C:\\git\\csharpcoding\\HelloApp\\Maximum1\\Program.cs",
               "RelativeToolTip": "Maximum1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -253,11 +222,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\Laba3_27_1\\Program.cs",
+              "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\Laba3_27_1\\Program.cs",
               "RelativeDocumentMoniker": "Laba3_27_1\\Program.cs",
-              "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\Laba3_27_1\\Program.cs",
+              "ToolTip": "C:\\git\\csharpcoding\\HelloApp\\Laba3_27_1\\Program.cs",
               "RelativeToolTip": "Laba3_27_1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -265,23 +234,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba4_23_1\\Laba4_23_1\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Laba4_23_1\\Laba4_23_1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba4_23_1\\Laba4_23_1\\Program.cs",
               "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba4_23_1\\Laba4_23_1\\Program.cs",
-              "RelativeToolTip": "..\\Laba4_23_1\\Laba4_23_1\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba4_23_1\\Laba4_23_1\\Program.cs",
               "ViewState": "AgIAAGMAAAAAAAAAAAAqwH0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T21:05:00.698Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\Laba3_22_1\\Program.cs",
+              "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\Laba3_22_1\\Program.cs",
               "RelativeDocumentMoniker": "Laba3_22_1\\Program.cs",
-              "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\Laba3_22_1\\Program.cs",
+              "ToolTip": "C:\\git\\csharpcoding\\HelloApp\\Laba3_22_1\\Program.cs",
               "RelativeToolTip": "Laba3_22_1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -289,11 +258,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\ConsoleApp1\\Program.cs",
+              "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\git\\csharpcoding\\HelloApp\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -301,35 +270,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba4_23_2\\Laba4_23_2\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Laba4_23_2\\Laba4_23_2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba4_23_2\\Laba4_23_2\\Program.cs",
               "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba4_23_2\\Laba4_23_2\\Program.cs",
-              "RelativeToolTip": "..\\Laba4_23_2\\Laba4_23_2\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba4_23_2\\Laba4_23_2\\Program.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAuwBYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T21:05:00.701Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba_23_2\\Laba_23_2_Fibonachi\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Laba_23_2\\Laba_23_2_Fibonachi\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba_23_2\\Laba_23_2_Fibonachi\\Program.cs",
               "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba_23_2\\Laba_23_2_Fibonachi\\Program.cs",
-              "RelativeToolTip": "..\\Laba_23_2\\Laba_23_2_Fibonachi\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba_23_2\\Laba_23_2_Fibonachi\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T21:05:00.704Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\Laba3_11_1\\Program.cs",
+              "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\Laba3_11_1\\Program.cs",
               "RelativeDocumentMoniker": "Laba3_11_1\\Program.cs",
-              "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\Laba3_11_1\\Program.cs",
+              "ToolTip": "C:\\git\\csharpcoding\\HelloApp\\Laba3_11_1\\Program.cs",
               "RelativeToolTip": "Laba3_11_1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -337,24 +306,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 8,
               "Title": "Laba3_11_1.csproj",
-              "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\Laba3_11_1\\Laba3_11_1.csproj",
+              "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\Laba3_11_1\\Laba3_11_1.csproj",
               "RelativeDocumentMoniker": "Laba3_11_1\\Laba3_11_1.csproj",
-              "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\Laba3_11_1\\Laba3_11_1.csproj",
+              "ToolTip": "C:\\git\\csharpcoding\\HelloApp\\Laba3_11_1\\Laba3_11_1.csproj",
               "RelativeToolTip": "Laba3_11_1\\Laba3_11_1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-12T14:07:39.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-12T14:07:39.747Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 9,
               "Title": "BinarySearch.cs",
-              "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\BinarySearch.cs",
+              "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\BinarySearch.cs",
               "RelativeDocumentMoniker": "BinarySearch.cs",
-              "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\BinarySearch.cs",
+              "ToolTip": "C:\\git\\csharpcoding\\HelloApp\\BinarySearch.cs",
               "RelativeToolTip": "BinarySearch.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -362,11 +330,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\Laba3_26_1\\Program.cs",
+              "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\Laba3_26_1\\Program.cs",
               "RelativeDocumentMoniker": "Laba3_26_1\\Program.cs",
-              "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\Laba3_26_1\\Program.cs",
+              "ToolTip": "C:\\git\\csharpcoding\\HelloApp\\Laba3_26_1\\Program.cs",
               "RelativeToolTip": "Laba3_26_1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -374,11 +342,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\Laba3_1_2\\Program.cs",
+              "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\Laba3_1_2\\Program.cs",
               "RelativeDocumentMoniker": "Laba3_1_2\\Program.cs",
-              "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\Laba3_1_2\\Program.cs",
+              "ToolTip": "C:\\git\\csharpcoding\\HelloApp\\Laba3_1_2\\Program.cs",
               "RelativeToolTip": "Laba3_1_2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -386,11 +354,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\Laba3_2_2\\Program.cs",
+              "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\Laba3_2_2\\Program.cs",
               "RelativeDocumentMoniker": "Laba3_2_2\\Program.cs",
-              "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\Laba3_2_2\\Program.cs",
+              "ToolTip": "C:\\git\\csharpcoding\\HelloApp\\Laba3_2_2\\Program.cs",
               "RelativeToolTip": "Laba3_2_2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -398,11 +366,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\Laba3_17_1\\Program.cs",
+              "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\Laba3_17_1\\Program.cs",
               "RelativeDocumentMoniker": "Laba3_17_1\\Program.cs",
-              "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\Laba3_17_1\\Program.cs",
+              "ToolTip": "C:\\git\\csharpcoding\\HelloApp\\Laba3_17_1\\Program.cs",
               "RelativeToolTip": "Laba3_17_1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -410,11 +378,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\Laba3_16_1\\Program.cs",
+              "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\Laba3_16_1\\Program.cs",
               "RelativeDocumentMoniker": "Laba3_16_1\\Program.cs",
-              "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\Laba3_16_1\\Program.cs",
+              "ToolTip": "C:\\git\\csharpcoding\\HelloApp\\Laba3_16_1\\Program.cs",
               "RelativeToolTip": "Laba3_16_1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -422,11 +390,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\Laba3_12_1\\Program.cs",
+              "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\Laba3_12_1\\Program.cs",
               "RelativeDocumentMoniker": "Laba3_12_1\\Program.cs",
-              "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\Laba3_12_1\\Program.cs",
+              "ToolTip": "C:\\git\\csharpcoding\\HelloApp\\Laba3_12_1\\Program.cs",
               "RelativeToolTip": "Laba3_12_1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -434,24 +402,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 18,
               "Title": "Laba3_10_1.csproj",
-              "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\Laba3_10_1\\Laba3_10_1.csproj",
+              "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\Laba3_10_1\\Laba3_10_1.csproj",
               "RelativeDocumentMoniker": "Laba3_10_1\\Laba3_10_1.csproj",
-              "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\Laba3_10_1\\Laba3_10_1.csproj",
+              "ToolTip": "C:\\git\\csharpcoding\\HelloApp\\Laba3_10_1\\Laba3_10_1.csproj",
               "RelativeToolTip": "Laba3_10_1\\Laba3_10_1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-01T14:58:40.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T14:58:40.402Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\Laba3_10_1\\Program.cs",
+              "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\Laba3_10_1\\Program.cs",
               "RelativeDocumentMoniker": "Laba3_10_1\\Program.cs",
-              "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\Laba3_10_1\\Program.cs",
+              "ToolTip": "C:\\git\\csharpcoding\\HelloApp\\Laba3_10_1\\Program.cs",
               "RelativeToolTip": "Laba3_10_1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -459,11 +426,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\Laba3_15_1.2\\Program.cs",
+              "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\Laba3_15_1.2\\Program.cs",
               "RelativeDocumentMoniker": "Laba3_15_1.2\\Program.cs",
-              "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\HelloApp\\Laba3_15_1.2\\Program.cs",
+              "ToolTip": "C:\\git\\csharpcoding\\HelloApp\\Laba3_15_1.2\\Program.cs",
               "RelativeToolTip": "Laba3_15_1.2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -471,73 +438,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 23,
               "Title": "Laba3_6_1.csproj",
               "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba3_6_1\\Laba3_6_1\\Laba3_6_1.csproj",
-              "RelativeDocumentMoniker": "..\\Laba3_6_1\\Laba3_6_1\\Laba3_6_1.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba3_6_1\\Laba3_6_1\\Laba3_6_1.csproj",
               "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba3_6_1\\Laba3_6_1\\Laba3_6_1.csproj",
-              "RelativeToolTip": "..\\Laba3_6_1\\Laba3_6_1\\Laba3_6_1.csproj",
+              "RelativeToolTip": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba3_6_1\\Laba3_6_1\\Laba3_6_1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-01T14:33:08.485Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T14:33:08.485Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba3_6_1\\Laba3_6_1\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Laba3_6_1\\Laba3_6_1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba3_6_1\\Laba3_6_1\\Program.cs",
               "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba3_6_1\\Laba3_6_1\\Program.cs",
-              "RelativeToolTip": "..\\Laba3_6_1\\Laba3_6_1\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba3_6_1\\Laba3_6_1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-01T14:11:35.703Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba5_8_2\\Laba5_8_2\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Laba5_8_2\\Laba5_8_2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba5_8_2\\Laba5_8_2\\Program.cs",
               "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba5_8_2\\Laba5_8_2\\Program.cs",
-              "RelativeToolTip": "..\\Laba5_8_2\\Laba5_8_2\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba5_8_2\\Laba5_8_2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T21:05:00.691Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba5_8_3\\Laba5_8_3\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Laba5_8_3\\Laba5_8_3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba5_8_3\\Laba5_8_3\\Program.cs",
               "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba5_8_3\\Laba5_8_3\\Program.cs",
-              "RelativeToolTip": "..\\Laba5_8_3\\Laba5_8_3\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba5_8_3\\Laba5_8_3\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T21:05:00.602Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba5_8_1\\Laba5_8_1\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Laba5_8_1\\Laba5_8_1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba5_8_1\\Laba5_8_1\\Program.cs",
               "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba5_8_1\\Laba5_8_1\\Program.cs",
-              "RelativeToolTip": "..\\Laba5_8_1\\Laba5_8_1\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba5_8_1\\Laba5_8_1\\Program.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T21:05:00.695Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 28,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba6_23_2\\Laba6_23_2\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Laba6_23_2\\Laba6_23_2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba6_23_2\\Laba6_23_2\\Program.cs",
               "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba6_23_2\\Laba6_23_2\\Program.cs",
-              "RelativeToolTip": "..\\Laba6_23_2\\Laba6_23_2\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba6_23_2\\Laba6_23_2\\Program.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAAwGEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T21:05:00.697Z"
@@ -547,69 +513,69 @@
               "DocumentIndex": 29,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Methods\\Methods\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Methods\\Methods\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Methods\\Methods\\Program.cs",
               "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Methods\\Methods\\Program.cs",
-              "RelativeToolTip": "..\\Methods\\Methods\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Methods\\Methods\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T21:05:00.699Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba3_1_1\\Laba3_1_1\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Laba3_1_1\\Laba3_1_1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba3_1_1\\Laba3_1_1\\Program.cs",
               "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba3_1_1\\Laba3_1_1\\Program.cs",
-              "RelativeToolTip": "..\\Laba3_1_1\\Laba3_1_1\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba3_1_1\\Laba3_1_1\\Program.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAA4wBYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T21:05:00.7Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 31,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba4_1_2\\Laba4_1_2\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Laba4_1_2\\Laba4_1_2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba4_1_2\\Laba4_1_2\\Program.cs",
               "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba4_1_2\\Laba4_1_2\\Program.cs",
-              "RelativeToolTip": "..\\Laba4_1_2\\Laba4_1_2\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba4_1_2\\Laba4_1_2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T21:05:00.7Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 32,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba1_23_1\\Laba1_23_1\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Laba1_23_1\\Laba1_23_1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba1_23_1\\Laba1_23_1\\Program.cs",
               "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba1_23_1\\Laba1_23_1\\Program.cs",
-              "RelativeToolTip": "..\\Laba1_23_1\\Laba1_23_1\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba1_23_1\\Laba1_23_1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T21:05:00.702Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 33,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba1_23_2\\Laba1_23_2\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Laba1_23_2\\Laba1_23_2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba1_23_2\\Laba1_23_2\\Program.cs",
               "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba1_23_2\\Laba1_23_2\\Program.cs",
-              "RelativeToolTip": "..\\Laba1_23_2\\Laba1_23_2\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba1_23_2\\Laba1_23_2\\Program.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAqwBQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T21:05:00.703Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 34,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba1_23_1\\Laba1_23_1\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Laba1_23_1\\Laba1_23_1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba1_23_1\\Laba1_23_1\\Program.cs",
               "ToolTip": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba1_23_1\\Laba1_23_1\\Program.cs",
-              "RelativeToolTip": "..\\Laba1_23_1\\Laba1_23_1\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba1_23_1\\Laba1_23_1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T21:05:00.703Z"
@@ -635,10 +601,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",

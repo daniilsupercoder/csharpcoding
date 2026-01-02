@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\project's\\DaniilProjects\\DaniilProjects\\Laba5_8_2\\Laba5_8_2\\Laba5_8_2.csproj": {}
+    "C:\\git\\csharpcoding\\Laba5_8_2\\Laba5_8_2\\Laba5_8_2.csproj": {}
   },
   "projects": {
-    "C:\\project's\\DaniilProjects\\DaniilProjects\\Laba5_8_2\\Laba5_8_2\\Laba5_8_2.csproj": {
+    "C:\\git\\csharpcoding\\Laba5_8_2\\Laba5_8_2\\Laba5_8_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\project's\\DaniilProjects\\DaniilProjects\\Laba5_8_2\\Laba5_8_2\\Laba5_8_2.csproj",
+        "projectUniqueName": "C:\\git\\csharpcoding\\Laba5_8_2\\Laba5_8_2\\Laba5_8_2.csproj",
         "projectName": "Laba5_8_2",
-        "projectPath": "C:\\project's\\DaniilProjects\\DaniilProjects\\Laba5_8_2\\Laba5_8_2\\Laba5_8_2.csproj",
-        "packagesPath": "C:\\Users\\я\\.nuget\\packages\\",
-        "outputPath": "C:\\project's\\DaniilProjects\\DaniilProjects\\Laba5_8_2\\Laba5_8_2\\obj\\",
+        "projectPath": "C:\\git\\csharpcoding\\Laba5_8_2\\Laba5_8_2\\Laba5_8_2.csproj",
+        "packagesPath": "C:\\Users\\den\\.nuget\\packages\\",
+        "outputPath": "C:\\git\\csharpcoding\\Laba5_8_2\\Laba5_8_2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\я\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\den\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
