@@ -12,3 +12,4 @@ C:\project's\DaniilProjects\DaniilProjects\HelloApp\Minimum\obj\Debug\net10.0\re
 C:\project's\DaniilProjects\DaniilProjects\HelloApp\Minimum\obj\Debug\net10.0\Minimum.pdb
 C:\project's\DaniilProjects\DaniilProjects\HelloApp\Minimum\obj\Debug\net10.0\Minimum.genruntimeconfig.cache
 C:\project's\DaniilProjects\DaniilProjects\HelloApp\Minimum\obj\Debug\net10.0\ref\Minimum.dll
+C:\project's\DaniilProjects\DaniilProjects\HelloApp\Minimum\obj\Debug\net10.0\Minimum.sourcelink.json

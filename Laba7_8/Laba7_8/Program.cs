@@ -11,7 +11,15 @@ class Program
         {
             Console.OutputEncoding = UTF8Encoding.UTF8;
 
-            // Читаем все строки из файла
+            // Читаем вс
+            //
+            //
+            //
+            //
+            //
+            //
+            //
+            // е строки из файла
             string[] lines = File.ReadAllLines("lines.txt");
 
             if (lines.Length == 0)
