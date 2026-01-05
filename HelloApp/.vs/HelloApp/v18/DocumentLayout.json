@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\git\\csharpcoding\\HelloApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0B636D7B-41FF-4985-864E-72E2518655E3}|BubbleSortBase\\BubbleSortBase.csproj|c:\\git\\csharpcoding\\helloapp\\bubblesortbase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B636D7B-41FF-4985-864E-72E2518655E3}|BubbleSortBase\\BubbleSortBase.csproj|solutionrelative:bubblesortbase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FBDC1239-4687-4645-83FD-9A5DB7C0FC39}|SredneeArifmeticheskoe\\SredneeArifmeticheskoe.csproj|c:\\git\\csharpcoding\\helloapp\\sredneearifmeticheskoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FBDC1239-4687-4645-83FD-9A5DB7C0FC39}|SredneeArifmeticheskoe\\SredneeArifmeticheskoe.csproj|solutionrelative:sredneearifmeticheskoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -134,11 +138,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 217,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba7_8\\Laba7_8\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba7_8\\Laba7_8\\Program.cs",
@@ -148,6 +152,19 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T21:05:00.697Z",
               "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\BubbleSortBase\\Program.cs",
+              "RelativeDocumentMoniker": "BubbleSortBase\\Program.cs",
+              "ToolTip": "C:\\git\\csharpcoding\\HelloApp\\BubbleSortBase\\Program.cs",
+              "RelativeToolTip": "BubbleSortBase\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:32:04.017Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -171,20 +188,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\SredneeArifmeticheskoe\\Program.cs",
               "RelativeDocumentMoniker": "SredneeArifmeticheskoe\\Program.cs",
               "ToolTip": "C:\\git\\csharpcoding\\HelloApp\\SredneeArifmeticheskoe\\Program.cs",
               "RelativeToolTip": "SredneeArifmeticheskoe\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-02T15:17:29.135Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Progress.txt",
               "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\Progress.txt",
               "RelativeDocumentMoniker": "Progress.txt",
@@ -192,12 +209,11 @@
               "RelativeToolTip": "Progress.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-12-26T15:51:06.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-26T15:51:06.413Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\Minimum\\Program.cs",
               "RelativeDocumentMoniker": "Minimum\\Program.cs",
@@ -205,12 +221,11 @@
               "RelativeToolTip": "Minimum\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T14:43:45.097Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-12T14:43:45.097Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\Maximum1\\Program.cs",
               "RelativeDocumentMoniker": "Maximum1\\Program.cs",
@@ -222,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\Laba3_27_1\\Program.cs",
               "RelativeDocumentMoniker": "Laba3_27_1\\Program.cs",
@@ -234,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba4_23_1\\Laba4_23_1\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba4_23_1\\Laba4_23_1\\Program.cs",
@@ -246,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\Laba3_22_1\\Program.cs",
               "RelativeDocumentMoniker": "Laba3_22_1\\Program.cs",
@@ -258,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
@@ -270,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba4_23_2\\Laba4_23_2\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba4_23_2\\Laba4_23_2\\Program.cs",
@@ -282,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba_23_2\\Laba_23_2_Fibonachi\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba_23_2\\Laba_23_2_Fibonachi\\Program.cs",
@@ -294,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\Laba3_11_1\\Program.cs",
               "RelativeDocumentMoniker": "Laba3_11_1\\Program.cs",
@@ -306,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Laba3_11_1.csproj",
               "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\Laba3_11_1\\Laba3_11_1.csproj",
               "RelativeDocumentMoniker": "Laba3_11_1\\Laba3_11_1.csproj",
@@ -318,7 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "BinarySearch.cs",
               "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\BinarySearch.cs",
               "RelativeDocumentMoniker": "BinarySearch.cs",
@@ -330,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\Laba3_26_1\\Program.cs",
               "RelativeDocumentMoniker": "Laba3_26_1\\Program.cs",
@@ -342,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\Laba3_1_2\\Program.cs",
               "RelativeDocumentMoniker": "Laba3_1_2\\Program.cs",
@@ -354,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\Laba3_2_2\\Program.cs",
               "RelativeDocumentMoniker": "Laba3_2_2\\Program.cs",
@@ -366,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\Laba3_17_1\\Program.cs",
               "RelativeDocumentMoniker": "Laba3_17_1\\Program.cs",
@@ -378,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\Laba3_16_1\\Program.cs",
               "RelativeDocumentMoniker": "Laba3_16_1\\Program.cs",
@@ -390,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\Laba3_12_1\\Program.cs",
               "RelativeDocumentMoniker": "Laba3_12_1\\Program.cs",
@@ -402,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Laba3_10_1.csproj",
               "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\Laba3_10_1\\Laba3_10_1.csproj",
               "RelativeDocumentMoniker": "Laba3_10_1\\Laba3_10_1.csproj",
@@ -414,7 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\Laba3_10_1\\Program.cs",
               "RelativeDocumentMoniker": "Laba3_10_1\\Program.cs",
@@ -426,7 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\git\\csharpcoding\\HelloApp\\Laba3_15_1.2\\Program.cs",
               "RelativeDocumentMoniker": "Laba3_15_1.2\\Program.cs",
@@ -438,7 +453,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Laba3_6_1.csproj",
               "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba3_6_1\\Laba3_6_1\\Laba3_6_1.csproj",
               "RelativeDocumentMoniker": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba3_6_1\\Laba3_6_1\\Laba3_6_1.csproj",
@@ -450,7 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba3_6_1\\Laba3_6_1\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba3_6_1\\Laba3_6_1\\Program.cs",
@@ -462,7 +477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba5_8_2\\Laba5_8_2\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba5_8_2\\Laba5_8_2\\Program.cs",
@@ -474,7 +489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba5_8_3\\Laba5_8_3\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba5_8_3\\Laba5_8_3\\Program.cs",
@@ -486,7 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba5_8_1\\Laba5_8_1\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba5_8_1\\Laba5_8_1\\Program.cs",
@@ -498,7 +513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba6_23_2\\Laba6_23_2\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba6_23_2\\Laba6_23_2\\Program.cs",
@@ -510,7 +525,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Methods\\Methods\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Methods\\Methods\\Program.cs",
@@ -522,7 +537,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba3_1_1\\Laba3_1_1\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba3_1_1\\Laba3_1_1\\Program.cs",
@@ -534,7 +549,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba4_1_2\\Laba4_1_2\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba4_1_2\\Laba4_1_2\\Program.cs",
@@ -546,7 +561,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba1_23_1\\Laba1_23_1\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba1_23_1\\Laba1_23_1\\Program.cs",
@@ -558,7 +573,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba1_23_2\\Laba1_23_2\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba1_23_2\\Laba1_23_2\\Program.cs",
@@ -570,7 +585,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba1_23_1\\Laba1_23_1\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\project\u0027s\\DaniilProjects\\DaniilProjects\\Laba1_23_1\\Laba1_23_1\\Program.cs",
